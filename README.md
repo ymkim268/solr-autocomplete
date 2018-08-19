@@ -20,3 +20,9 @@
 
 ### SpellCorrector.php can be found below
 * code ref: http://www.phpclasses.org/package/4859-PHP-Suggest-corrected-spelling-text-in-pure-PHP.html#download
+
+### example of spell correction
+![spelling results](./img/spelling-example.png)
+
+### example of autocomplete
+![autocomplete results](./img/auto-example.png)
